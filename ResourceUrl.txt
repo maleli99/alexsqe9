@@ -19,6 +19,23 @@
             "url": "https://w2pei12.w3pei0uemtnewqiomhkeahhu.app",
             "type": "免费资源",
             "status": "video"
+        },{
+            "id": "30",
+            "url": "https://cgfm.co5pct5zio5zci6k6h6icd5ou2.app",
+            "type": "吃瓜图片",
+            "status": "img"
+        },
+        {
+            "id": "45",
+            "url": "https://w3pei4.w3pei0uemtnewqiomhkeahhu.app",
+            "type": "付费资源",
+            "status": "img"
+        },
+        {
+            "id": "46",
+            "url": "https://w2one16.w3pei0uemtnewqiomhkeahhu.app",
+            "type": "免费资源",
+            "status": "img"
         }
     ]
 }
